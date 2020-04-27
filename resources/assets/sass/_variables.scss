@@ -2,7 +2,64 @@ $fa-font-path:        "../webfonts";
 // Body
 $body-bg: #f5f8fa;
 
+$yellow-green: #b0eb00;
+$red: #b30015;
+$blue: #2a00b3;
+$other-blue: #0077b3;
+$cyan: #00b0b3;
+$transparent-cyan: #24fbff;
+$periwinkle: #8a7dff;
+$light-gray: #a6a6a6;
+$gray: #595959;
+$darkish-gray: #444;
+$dark-gray: #363636;
+$darker-gray: #303030;
+$darkest-gray: #292929;
+$darkester-gray: #111;
+
 // Typography
 $font-family-sans-serif: "Raleway", sans-serif;
 $font-size-base: 0.9rem;
 $line-height-base: 1.6;
+
+
+
+.yellow-green{
+    color: $yellow-green;
+}
+.red{
+    color: $red;
+}
+.blue{
+    color: $blue;
+}
+.other-blue{
+    color: $other-blue;
+}
+.cyan{
+    color: $cyan;
+}
+.transparent-cyan{
+    color: $transparent-cyan;
+}
+.periwinkle{
+    color: $periwinkle;
+}
+.light-gray{
+    color: $light-gray;
+}
+.gray{
+    color: $gray;
+}
+.darkish-g{
+    color: $darkish-gray;
+}
+.dark-gray{
+    color: $dark-gray;
+}
+.darker-gray{
+    color: $darker-gray;
+}
+.darkest-gray{
+    color: $darkest-gray;
+}
